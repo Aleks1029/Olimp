@@ -18,5 +18,5 @@ for i in range(int(q)):
             print(count)
     m=False
     count=0
-
+print("Кінець циклу")
             
